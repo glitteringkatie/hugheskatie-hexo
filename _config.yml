@@ -71,3 +71,10 @@ deploy:
   type: git
   repo: https://github.com/hugheskatie/hugheskatie.github.io.git
   branch: master
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
