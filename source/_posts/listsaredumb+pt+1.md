@@ -4,6 +4,7 @@ date: 2017-08-12 23:56:54
 tags:
 - reason
 - useless projects
+description: My first dive into Reason through a project in absurdism
 cover_index: https://images.unsplash.com/photo-1490113833580-e572c5e8dd10?fit=crop&w=846&h=846
 cover_detail: https://images.unsplash.com/photo-1490113833580-e572c5e8dd10
 cover: https://images.unsplash.com/photo-1490113833580-e572c5e8dd10
